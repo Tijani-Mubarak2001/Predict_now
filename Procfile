@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Decide.py
+web: sh setup.sh && streamlit run Decide_Now.py
